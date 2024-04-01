@@ -9,3 +9,5 @@ HTML,Javascript and CSS is included
 Th page demonstrates successful understanding of variables, calculations, conditionals, recursion and functions.
  
 
+I also created a multiple choice quiz with 5 questions about my topic, using a HTML form and Javascript.  
+A user is  able to select answers using an appropriate form element and press a button to reveal correct answers and user score.
